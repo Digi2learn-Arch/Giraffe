@@ -8,3 +8,4 @@ y = 1.6* x + np.random.random(10)
 
 print('x : ',  x)
 print('y : ',  y)
+
